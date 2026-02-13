@@ -20,3 +20,4 @@ namespace WebApplication1.Pages
 }
 # this is my change
 # i am adding this line to test the commit and push functionality of git
+# i can do many things with git like branching, merging, rebasing, etc.
